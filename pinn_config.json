@@ -1,0 +1,18 @@
+{
+    "loss_weights": [
+        1.0,
+        20.0,
+        1.0,
+        100.0
+    ],
+    "architecture": [
+        1,
+        256,
+        128,
+        64,
+        1
+    ],
+    "activation": "tanh",
+    "l2_error": 0.0369771310600382,
+    "training_iterations": 5000
+}
